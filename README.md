@@ -13,11 +13,11 @@ A simple, responsive React-based Todo List application built with Yarn and Vite.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NadunAnsanayaka/to_do_list_app.git
+   git clone https://github.com/NadunAnsanayaka/Todo-list-app.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd to_do_list_app
+   cd Todo-list-app
    ```
 3. Install the dependencies using Yarn:
    ```bash
